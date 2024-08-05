@@ -6,3 +6,5 @@ I will try and repeat what I learned today.
 
 I just added a new line of text and will track it using git.
 
+I am now adding a second line of text to the file.
+
